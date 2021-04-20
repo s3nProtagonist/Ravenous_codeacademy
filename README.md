@@ -1,3 +1,7 @@
+# Ravenous project to fetch data from Yelp API
+# Codeacademy learning project
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
